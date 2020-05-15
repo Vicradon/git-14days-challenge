@@ -51,7 +51,7 @@ Lets assume running the `git remote -v` returns something  different for you, th
 
 - Make Screenshot 
 
-- run `git <any-previous-command-learnt> - help `
+- run `git <any-previous-command-learnt> --help `
 
 - Make Screenshot 
 
